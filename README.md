@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=tasvirrupareliya&label=PROFILE+VIEWS&color=blue)
+![](https://komarev.com/ghpvc/?username=tasvirrupareliya&label=PROFILE+VIEWS&color=blue) 
 
 ### 🚀 What I'm Up To:
 - 🌟 Exploring new opportunities and collaborations.
