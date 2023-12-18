@@ -30,8 +30,6 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
 
-
-
 <h2 dir="auto"><a id="user-content-lets-connect" class="anchor" aria-hidden="true" tabindex="-1" href="#lets-connect"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><i>Let's Connect</i></h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://ca.linkedin.com/in/tasvirrupareliya)
@@ -44,6 +42,13 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tasvirrupareliya&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide=issues,contribs&amp;border_radius=0&amp;locale=en&amp;theme=dark" alt="tasvirrupareliya" style="max-width: 100%;">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasvirrupareliya&amp;layout=compact&amp;exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&amp;hide=Shell&amp;border_radius=0&amp;theme=dark" alt="tasvirrupareliya" style="max-width: 100%;">
 
+
+<h2 dir="auto"><a id="user-content-top-repositories" class="anchor" aria-hidden="true" tabindex="-1" href="#top-repositories"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><i>Top Repositories</i></h2>
+
+![Gift_Xchange](https://github-readme-stats.vercel.app/api/pin/?username=tasvirrupareliya&repo=Gift_Xchange&show_owner=true&border_radius=0&theme=dark)
+![Wallpaper-App](https://github-readme-stats.vercel.app/api/pin/?username=tasvirrupareliya&repo=Wallpaper-App&show_owner=true&border_radius=0&theme=dark)
+![Gallery_Hide_Photos_Videos](https://github-readme-stats.vercel.app/api/pin/?username=tasvirrupareliya&repo=Gallery_Hide_Photos_Videos&show_owner=true&border_radius=0&theme=dark)
+![Android_Wear_Task_Manager_App](https://github-readme-stats.vercel.app/api/pin/?username=tasvirrupareliya&repo=Android_Wear_Task_Manager_App&show_owner=true&border_radius=0&theme=dark)
 
 
 Let's build amazing things together! ✨
