@@ -49,6 +49,8 @@
 [![Wallpaper-App](https://github-readme-stats.vercel.app/api/pin/?username=tasvirrupareliya&repo=Wallpaper-App&show_owner=true&border_radius=0&theme=dark)](https://github.com/tasvirrupareliya/Wallpaper-App)
 [![Gallery_Hide_Photos_Videos](https://github-readme-stats.vercel.app/api/pin/?username=tasvirrupareliya&repo=Gallery_Hide_Photos_Videos&show_owner=true&border_radius=0&theme=dark)](https://github.com/tasvirrupareliya/Gallery_Hide_Photos_Videos)
 [![Android_Wear_Task_Manager_App](https://github-readme-stats.vercel.app/api/pin/?username=tasvirrupareliya&repo=Android_Wear_Task_Manager_App&show_owner=true&border_radius=0&theme=dark)](https://github.com/tasvirrupareliya/Android_Wear_Task_Manager_App)
+[![Screen_Mirror_App](https://github-readme-stats.vercel.app/api/pin/?username=tasvirrupareliya&repo=Screen_Mirror_App&show_owner=true&border_radius=0&theme=dark)](https://github.com/tasvirrupareliya/Screen_Mirror_App)
+[![ScanNKnow_QR_Barcode_scanner](https://github-readme-stats.vercel.app/api/pin/?username=tasvirrupareliya&repo=ScanNKnow_QR_Barcode_scanner&show_owner=true&border_radius=0&theme=dark)](https://github.com/tasvirrupareliya/ScanNKnow_QR_Barcode_scanner)
 
 
 
